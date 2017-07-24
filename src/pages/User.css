@@ -1,0 +1,74 @@
+.con{
+	padding: 0 .16rem 0 .16rem;
+	height: 5.78rem;
+}
+.log_reg{
+	height: 1.4rem;
+	width: 3.43rem;
+	padding-top: 0.44rem;
+}
+.log_reg div{
+	width: 1.24rem;
+	height: 0.44rem;
+	background: #00B38A;
+	color: white;
+	margin: 0 auto;
+	line-height: 0.44rem;
+	font-size: 0.16rem;
+}
+.btnBox{
+	height: 2rem;
+	width:3.46rem;
+}
+.btnBox div{
+	background: #00B38A;
+	color: white;
+	width: 1.64rem;
+	height: .86rem;
+	margin-bottom:.14rem;
+	text-align: center;
+	line-height: 0.86rem;
+	font-size: .16rem;
+	float: left;
+}
+.post,.rec{
+	margin-right: 0.14rem;
+}
+.portrait{
+	width: 0.76rem;
+	height: 0.76rem;
+	border-radius:0.76rem;
+	background: #dee4e4;
+	margin: 0 auto;
+	text-align: center;
+	margin-bottom: 0.05rem;
+}
+.portI{
+	color: #00B38A;
+	font-size: 0.54rem;
+	line-height:0.9rem;
+	text-align: center;
+}
+.userId{
+	font-size: .14rem;
+}
+.toResume{
+	color: #0AC599;
+	position: absolute;
+	top: 0.22rem;
+	right: 0;
+	font-size: 0.14rem;
+}
+.userBox{
+	position: relative;
+	padding-top: 0.22rem;
+	margin-bottom: 0.1rem;
+}
+.escUser{
+	height: .38rem;
+	width:3.46rem;
+	background: #0AC599;
+	color: white;
+	text-align: center;
+	line-height: 0.38rem;
+}

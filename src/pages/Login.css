@@ -1,0 +1,52 @@
+.login{
+	background: #00B38A;
+	padding: 0.2rem .2rem 0 .2rem;
+	height: 6.67rem;
+}
+.form-control{
+	height: .6rem;
+	width: 3.35rem;
+	float: left;
+	padding-left: 0.18rem;
+	outline:none
+}
+.id{
+	border: none;
+	border-bottom: 1px solid #e0e0e0;
+	border-top-left-radius: .05rem;
+	border-top-right-radius: .05rem;
+	
+}
+.pwd{
+	border: none;
+	border-bottom-left-radius: .05rem;
+	border-bottom-right-radius: .05rem;
+}
+.btnLog{
+	height: .6rem;
+	width: 3.35rem;
+	background: #0ac599;
+	color: white;
+	text-align: center;
+	border: none;
+	border-radius:.05rem ;
+	margin-top: 0.2rem;
+	font-size: 0.18rem;
+}
+.text{
+	font-size: 0.12rem;
+	color: #0ac599;
+	margin-top: .16rem;
+	height: .2rem;
+	line-height: .2rem;
+}
+.btnReg{
+	margin-top: .08rem;
+	height: .6rem;
+	width: 3.35rem;
+	border: 1px solid #0ac599;
+	font-size: 0.18rem;
+	border-radius:.05rem ;
+	background:#00B38A ;
+	color: white;
+}

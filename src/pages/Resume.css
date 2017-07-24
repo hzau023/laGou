@@ -1,0 +1,103 @@
+.resumeBox{
+	padding: 0.1rem;
+	height: 6.67rem;
+	width: 3.75rem;
+	overflow: auto;
+}
+.resHead{
+	border: 1px solid #dbdbdb;
+	border-bottom: none;
+}
+
+
+
+.resHead .headImg{
+	width: 3.53rem;
+	height: 0.8rem;
+	
+}
+.resImgBox{
+	height: 0.3rem;
+	position: relative;
+}
+.resImg{
+	position: absolute ;
+	top: -.55rem;
+	left: 1.42rem;
+}
+.resUserId{
+	width: 3.55rem;
+	text-align: center;
+	font-size: 0.28rem;
+	line-height:0.38rem ;
+}
+
+.sex{
+	display: inline-block;
+	width: 0.11rem;
+	height: 0.16rem;
+	margin-left: 0.1rem;
+}
+.man{
+	background:url(https://www.lagou.com/images/myresume/boy.png) no-repeat;
+	background-size: 0.11rem 0.16rem;
+}
+.girl{
+	background:url(https://www.lagou.com/images/myresume/girl.png);
+}
+.tag{
+	width: 3.55rem;
+	line-height: 0.30rem;
+	font-size: 0.14rem;
+	
+}
+.resumeBox p{
+	text-align: center;
+}
+.tagHead{
+	height: 0.4rem;
+	background: #eeeeee;
+	width: 3.55rem;
+	padding: 0.08rem 0 0 0.13rem;
+	border-top: 1px solid #dbdbdb;
+	margin-bottom: 0.14rem;
+	margin-top: 0.14rem;
+}
+.beBlock{
+	margin-top: 0.04rem;
+	background: #019875;
+	width: 0.08rem;
+	height: 0.16rem;
+	float: left;
+}
+.tagMsg{
+	float: left;
+	margin-left: 0.06rem;
+	font-size: 0.18rem;
+}
+.datum{
+	width: 3.55rem;
+	text-align: left!important;
+}
+.datumId{
+	color: #888888;
+	font-size: 0.14rem;
+	text-align: left!important;
+}
+.datumMsg{
+	font-size: 0.14rem;
+	text-align: left!important;
+}
+.pWidth{
+	width: 3.55rem;
+	padding-left: 0.18rem;
+	height: 0.22rem;
+	line-height: 0.22rem;
+}
+.state{
+	height: 0.7rem;
+	text-align: center;
+	line-height: 0.7rem;
+	font-size: 0.18rem;
+	background: #eee;
+}

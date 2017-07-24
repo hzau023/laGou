@@ -1,0 +1,63 @@
+.searchCon{
+	height: 5.78rem;
+	overflow: auto;
+}
+
+.seaCheck{
+	height: 0.46rem;
+	width: 3.75rem;
+	border: 1px solid #e8e8e8;
+}
+
+
+.cityShow{
+	float: left;
+	text-align: center;
+	line-height: .46rem;
+	width: .88rem;
+	height: .46rem;
+	border-right: 1px solid #e8e8e8;
+}
+.cityIcon{
+	font-size: .12rem;
+}
+.seaIpt{
+	float: left;
+	border: none;
+	width: 2.32rem;
+	height: 0.44rem;
+	padding-left: .16rem;
+}
+.icon-sousuo{
+	color: #c2cfcc;
+}
+.seaBtn{
+	border: none;
+	float: left;
+	height: 0.44rem;
+	width: 0.53rem;
+	background: white;
+}
+.searchRecord{
+	width: 3.75rem;
+	height: .45rem;
+	border-bottom: 1px solid #e8e8e8;
+	line-height: .45rem;
+	padding: 0 .2rem 0 .2rem;
+	display: flex;
+	flex-direction: row;
+	justify-content: space-between;
+}
+.recordCon{
+	font-size: .14rem;
+	color: #666666;
+}
+.icon-chuyidong{
+	color: #c2cfcc;
+}
+.clecked{
+	background: #e7f3f0;
+}
+.seaMore{
+	display: none;
+}

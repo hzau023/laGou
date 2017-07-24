@@ -1,0 +1,54 @@
+.regbox{
+	background: #02905b;
+	padding:.2rem .2rem 0 .2rem ;
+	height: 6.67rem;
+}
+.regIpt{
+	border: none;
+	width: 3.36rem;
+	height: .6rem;
+	border-radius:.05rem ;
+	padding-left:.18rem ;
+}
+.regIpt1,.regIpt2{
+	margin-bottom: 0.1rem;
+}
+.verify{
+	width: 1.14rem;
+	height: 0.46rem;
+	display: inline-block;
+	text-align: center;
+	line-height: 0.46rem;
+	background: white;
+}
+.look{
+	color: #45e3be;
+	font-size: 0.12rem;
+	margin-left: 0.2rem;
+}
+.other,.deal{
+	color: #9beda5;
+	text-decoration: underline;
+	font-size: 0.12rem;
+}
+.regIpt3,.regIpt4{
+	margin-top: 0.2rem;
+}
+.regIpt5{
+	margin: 0.3rem 0 .2rem 0;
+	background: #0ac599;
+	color: white;
+}
+.regIpt6{
+	background: #02905b;
+	border: 1px solid #0ac599;
+	color: white;
+	margin: .1rem 0 .1rem 0 ;
+}
+.hasId,.agree{
+	color: #45d590;
+	font-size: 0.12rem;
+}
+
+
+
